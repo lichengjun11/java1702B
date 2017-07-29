@@ -26,6 +26,8 @@ CREATE TABLE 1702B.hobby(
   accountid INT COMMENT 'fk'
 );
 
+
+
 SELECT *
 FROM `1702B`.account;
 
